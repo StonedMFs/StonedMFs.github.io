@@ -10,7 +10,7 @@
   "SYMBOL": "SMFs",
   "MAX_SUPPLY": 8888,
   "WEI_COST": 4300000000000000,
-  "DISPLAY_COST": 0043,
+  "DISPLAY_COST": 0.0043,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/stonedmfs",
